@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I’m Amin
 
-<!--
-**Amin-khattab/Amin-khattab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Machine Learning Student | Full-Stack Developer Building the intersection of intelligent models and functional web applications.
 
-Here are some ideas to get you started:
+🔭 Current Project: Finalizing A simple Bankin-App, an application built with Transformers and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education: Student at Erbil Polytechnic University.
+
+🛠️ Tools: Python, ML , Transformers, Web-Development,FastAPI. 
+
+🌍 Location: Erbil, Iraq (UTC+3).
+
+📫 Reach me: aminghost47@gmail.com
