@@ -1,13 +1,16 @@
 👋 Hi, I’m Amin
 
-AI & Machine Learning Student | Full-Stack Developer Building the intersection of intelligent models and functional web applications.
+AI & Machine Learning Student | Full-Stack Developer building practical web apps and intelligent systems.
 
-🔭 Current Project: Finalizing A simple Bankin-App, an application built with Transformers and Deep Learning.
+🚀 Recent Projects:
+- Banking-App: Full-stack FastAPI banking app with PostgreSQL, transfers, transactions, and an AI assistant.
+- KurdFlight Django: Django REST + React flight booking app with JWT auth and booking flow.
+- Transformer Implementations: GPT-style, Kurdish-focused, and vision transformer experiments.
 
 🎓 Education: Student at Erbil Polytechnic University.
 
-🛠️ Tools: Python, ML , Transformers, Web-Development,FastAPI. 
+🛠️ Tools: Python, Django, FastAPI, React, Next.js, PostgreSQL, Transformers, OpenAI API.
 
 🌍 Location: Erbil, Iraq (UTC+3).
 
-📫 Reach me: aminghost47@gmail.com
+📫 Reach me: [aminghost47@gmail.com](mailto:aminghost47@gmail.com)
