@@ -4,7 +4,7 @@ AI & Machine Learning Student | Full-Stack Developer building practical web apps
 
 🚀 Recent Projects:
 - KurdFlight: Ongoing advanced TypeScript/Next.js flight booking app.
-- KurdFlight: Django: Django REST + React booking app with JWT auth.
+- An almost real-time kurdish Ai chat with voice.
 - Banking-App: FastAPI banking app with PostgreSQL, transfers, transactions, and an AI assistant.
 - Transformers: GPT-style, Kurdish-focused, and vision transformer experiments.
 
